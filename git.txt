@@ -32,7 +32,6 @@ Exercise 8:
 Ans:
 master
 todo
-
 remotes/origin/HEAD -> origin/master
 remotes/origin/jch
 remotes/origin/main
