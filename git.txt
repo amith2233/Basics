@@ -1,0 +1,42 @@
+Exercise 1: 
+Ans: int cmd-worktree(int ac, const char **av,const char *prefix)
+
+Exercise 2:
+Ans: version 1.5.2
+
+Exercise 3:
+Ans: It displays the 4th content from the tail of a tree object and if there is no
+such content then it displays 1st content from the head.
+
+Exercise 5:
+Ans: Update German translation for Git v2.31.0.
+
+Exercise 6:
+Ans: command: PAGER='head -n 80' git log --grep="refactored"
+     output: 
+ 
+     Merge branch 'pd/mergetool-nvimdiff'
+
+     The existing backends for "git mergetool" based on variants of vim
+     have been refactored and then support for "nvim" has been added.
+    
+     * pd/mergetool-nvimdiff:
+     mergetools: add support for nvimdiff (neovim) family
+
+     exit code: 141
+
+Exercise 7:
+Ans: RelNotes/2.31.1.txt
+
+Exercise 8:
+Ans:
+master
+todo
+remotes/origin/HEAD -> origin/master
+remotes/origin/jch
+remotes/origin/main
+remotes/origin/maint
+remotes/origin/master
+remotes/origin/next
+remotes/origin/seen
+remotes/origin/todo
